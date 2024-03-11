@@ -1,5 +1,5 @@
 # Define the SharePoint site URL
-$SiteURL = "https://egms.sharepoint.com/sites/WIFMRessurs/spl/"
+$SiteURL = "place your URL here"
 
 # Prompt the user for the number of versions to keep
 $VersionsToKeep = Read-Host "Enter the number of latest versions to keep"
