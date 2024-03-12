@@ -13,6 +13,7 @@ Before running the script, ensure that the SharePointPnPPowerShellOnline module 
 
 ```powershell
 Install-Module SharePointPnPPowerShellOnline -AllowClobber
+```
 
 ## Usage
 Open PowerShell and navigate to the directory containing the SharePointVersionCleaner.ps1 script.
@@ -26,3 +27,4 @@ To target a specific SharePoint site, modify the $SiteURL variable at the beginn
 
 ```powershell
 $SiteURL = "https://yourdomain.sharepoint.com/sites/YourSite"
+```
